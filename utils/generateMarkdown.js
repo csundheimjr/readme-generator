@@ -30,7 +30,7 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
   ## How to Contribute
-  ${data.contributors}
+  ${data.contribute}
   ## Credits 
   ${data.credits}
 `;
